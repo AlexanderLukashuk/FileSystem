@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/bin/Debug/netcoreapp3.1/FileSystemTask2.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/bin/Debug/netcoreapp3.1/FileSystemTask2.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/bin/Debug/netcoreapp3.1/FileSystemTask2.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/bin/Debug/netcoreapp3.1/FileSystemTask2.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/bin/Debug/netcoreapp3.1/FileSystemTask2.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/obj/Debug/netcoreapp3.1/FileSystemTask2.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/obj/Debug/netcoreapp3.1/FileSystemTask2.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/obj/Debug/netcoreapp3.1/FileSystemTask2.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/obj/Debug/netcoreapp3.1/FileSystemTask2.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_20/fileSystem/FileSystemTask2/obj/Debug/netcoreapp3.1/FileSystemTask2.pdb
